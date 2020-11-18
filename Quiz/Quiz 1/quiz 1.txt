@@ -1,0 +1,15 @@
+Name : Nafisa Tafshir
+ID 1711029642
+
+
+Why it is never a good idea to store any data in the
+segment registers?
+The main use of segment register is  It provides a powerful memory management mechanism.
+It allows to processes to easily share data
+the segment registers which is combined of four segments mainly deal with the addresses of the data .
+but not with the storing of data .
+we can load data on segment register but it is not ideal to store data on segment register .
+
+2. Explain GPR in terms of storing data.
+GPR or General Purpose register is used to store temporary data in the microprocessor .In every microprocessor there is atleast 8 GPR to store temporaray data .
+
